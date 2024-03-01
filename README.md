@@ -1,4 +1,6 @@
 # ChatPro
+<h1 align="center"><b>🕹Chat_Pro<br>The Real-Time Chatting App
+ </b></h1>
 A simple socket based GUI real-time chatting application built on client-server model in Python 2.7! 
 
 # Usage
