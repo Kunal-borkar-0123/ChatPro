@@ -1,5 +1,5 @@
 # ChatPro
-A simple socket based GUI real-time chatting application built on client-server model in Python 2.7!
+A simple socket based GUI real-time chatting application built on client-server model in Python 2.7! 
 
 # Usage
 1. Launch with the following command and select mode (Server/Client)
